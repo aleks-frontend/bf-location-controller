@@ -1,0 +1,352 @@
+{
+	"belmont-oasis-leisure-centre": {
+		"brand": "belmont-oasis-leisure-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/181478/Belmont%2520Oasis_logo_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175096/Belmont%2520Oasis_logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/175034/Belmont%2520Oasis_logo_hz_colour.png",
+		"phone": "(08) 9277 1622",
+		"website": "belmontoasis.com.au",
+		"address": "1 Progress Way, Belmont WA 6104",
+		"name": "Belmont Oasis"
+	},
+	"angelo-anestis-aquatic-centre": {
+		"brand": "angelo-anestis-aquatic-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/181477/Angelo%2520Anestis%2520Aquatic%2520Centre_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175099/Angelo%2520Anestis%2520Aquatic%2520Centre_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174538/angelo-anestis-aquatic-centre.svg",
+		"phone": "(02) 9150 5288",
+		"website": "www.bexleyaquatic.com.au",
+		"address": "98C Preddys Rd, Bexley North NSW 2207",
+		"name": "Angelo Anestis"
+		},
+	"bayfit-leisure-centre": {
+		"brand": "bayfit-leisure-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/181244/BayFit%2520Leisure%2520Centre_logo_vt_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175650/BayFit%2520Leisure%2520Centre_logo_vt_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174922/bay-fit-leisure-centre.svg",
+		"phone": "(03) 9392 2222",
+		"website": "www.bayfit.com.au",
+		"address": "257 Mason Street, Altona North, VIC 3025",
+		"name": "BayFit Leisure Centre"
+	},
+	"greenwich-baths": {
+		"brand": "greenwich-baths-sydney",
+		"logoBlack": "https://files.outfit.io/media_library_items/181243/Greenwich-new%2520logo2012_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175652/Greenwich-new%2520logo2012_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173121/greenwich-baths-sydney.svg",
+		"phone": "(02) 9438 5922",
+		"website": "www.greenwichbaths.com.au",
+		"address": "4 Albert St, Greenwich NSW 2065",
+		"name": "Greenwich Baths"
+	},
+	"yeppoon-lagoon": {
+		"brand": "rockhampton-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181100/BlueFit_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/181493/rockhampton-aquatic-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173111/blue-fit-group.svg",
+		"phone": "0499 337 657",
+		"website": "www.rockhamptonaquatic.com.au",
+		"address": "1 Lagoon Place, Yeppoon QLD 4703",
+		"name": "Yeppoon Lagoon"
+	},
+	"gracemere-swimming-pool": {
+		"brand": "rockhampton-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181359/rockhampton-aquatic-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/181493/rockhampton-aquatic-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173103/rockhampton-aquatic.svg",
+		"phone": "(07) 4933 2662",
+		"website": "www.rockhamptonaquatic.com.au",
+		"address": "Cedric Archer Park, Fisher Street, Gracemere, Queensland 4702",
+		"name": "Gracemere Swimming Pool"
+	},
+	"red-poppy-coffee": {
+		"brand": "rockhampton-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181359/rockhampton-aquatic-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/181493/rockhampton-aquatic-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173103/rockhampton-aquatic.svg",
+		"phone": "(07) 4922 1981",
+		"website": "www.rockhamptonaquatic.com.au",
+		"address": "2 Graeme Acton Way, Rockhampton City QLD 4700",
+		"name": "Red Poppy Coffee"
+	},
+	"club-jubliee": {
+		"brand": "club-jubilee-one",
+		"logoBlack": "https://files.outfit.io/media_library_items/181100/BlueFit_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/174558/bluey%2527s-swim-school.svg",
+		"logo": "https://files.outfit.io/media_library_items/174558/bluey%2527s-swim-school.svg",
+		"phone": "(03) 9115 1535",
+		"website": "https://www.clubjubilee.com.au/",
+		"address": "48 Memory Cres, Wyndham Vale VIC 3024",
+		"name": "Club Jubliee"
+	},
+	"hurstville-aquatic-leisure-centre": {
+		"brand": "hurstville-aquatic-leisure-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/181258/Hurstville%2520Aquatic%2520Leisure%2520Centre_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175109/Hurstville%2520Aquatic%2520Leisure%2520Centre_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174537/hurstville-aquatic-leisure-centre.svg",
+		"phone": "(02) 9585 9600",
+		"website": "www.hurstvilleaquatic.com.au",
+		"address": "King Georges Rd & Forest Rd, Hurstville NSW 2220",
+		"name": "Hurstville Aquatic Leisure Centre"
+	},
+	"port-macquarie-swimming-pool": {
+		"brand": "port-macquarie-hastings-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181479/BAC039%2520Port%2520Macquarie_logo_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175095/BAC039%2520Port%2520Macquarie_logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174546/port-macquarie-hastings-pools.svg",
+		"phone": "(02) 6583 1635",
+		"website": "phmpools.com.au",
+		"address": "28 Gordon St, Port Macquarie NSW 2444",
+		"name": "Port Macquarie Swimming Pool"
+	},
+	"wauchope-memorial-olympic-pool": {
+		"brand": "port-macquarie-hastings-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181479/BAC039%2520Port%2520Macquarie_logo_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175095/BAC039%2520Port%2520Macquarie_logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174546/port-macquarie-hastings-pools.svg",
+		"phone": "(02) 6585 2001",
+		"website": "phmpools.com.au",
+		"address": "3 Cameron St, Wauchope NSW 2446",
+		"name": "Wauchope Memorial Olympic Pool"
+	},
+	"glen-waverley-golf-course": {
+		"brand": "glen-waverley-golf-course",
+		"logoBlack": "https://files.outfit.io/media_library_items/181468/GW_Golf_Course-Black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175101/GW_Golf_Course.svg",
+		"logo": "https://files.outfit.io/media_library_items/173095/glen-waverley-golf-course.svg",
+		"phone": "(03) 9560 7806",
+		"website": "www.glenwaverleygolf.com.au",
+		"address": "915 Waverley Rd, Glen Waverley VIC 3150",
+		"name": "Glen Waverley"
+	},
+	"oakleigh-golf-course": {
+		"brand": "oakleigh-golf-course",
+		"logoBlack": "https://files.outfit.io/media_library_items/181466/Oakleigh_Golf_Course-Black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175102/Oakleigh_Golf_Course.svg",
+		"logo": "https://files.outfit.io/media_library_items/174547/oakleigh-golf-course.svg",
+		"phone": "(03) 9568 3307",
+		"website": "http://www.oakleighgolf.com.au/",
+		"address": "2 Park Rd, Oakleigh VIC 3166",
+		"name": "Oakleigh Golf Course"
+	},
+	"coffs-harbour-war-memorial-olympic-pool": {
+		"brand": "coffs-harbour-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181465/Coffs%2520Harbour%2520Pools_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175104/Coffs%2520Harbour%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173101/coffs-harbour-pools.svg",
+		"phone": "(02) 6652 1779",
+		"website": "Coffsharbourpools.com.au",
+		"address": "Gordon St &, Coff St, Coffs Harbour NSW 2450",
+		"name": "Coffs Harbour War Memorial Olympic Pool"
+	},
+	"woolgoolga-swimming-pool": {
+		"brand": "coffs-harbour-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181465/Coffs%2520Harbour%2520Pools_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175104/Coffs%2520Harbour%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173101/coffs-harbour-pools.svg",
+		"phone": "(02) 6654 8291",
+		"website": "Coffsharbourpools.com.au",
+		"address": "86 Beach St, Woolgoolga NSW 2456",
+		"name": "Woolgoolga Swimming Pool"
+	},
+	"gladstone-aquatic-centre": {
+		"brand": "gladstone-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181475/Gladstone%2520Aquatic_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175100/Gladstone%2520Aquatic_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173100/gladstone-aquatic.svg",
+		"phone": "(07) 4972 6822",
+		"website": "Gladstoneaquatic.com.au",
+		"address": "60 Tank St, West Gladstone QLD 4680",
+		"name": "Gladstone Aquatic Centre"
+	},
+	"hurstville-golf-course": {
+		"brand": "hurstville-golf-course",
+		"logoBlack": "https://files.outfit.io/media_library_items/181239/Hurstville%2520Golf%2520Course_logo.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175909/Hurstville%2520Golf%2520Course_logo.svg",
+		"logo": "https://files.outfit.io/media_library_items/173093/hurstville-golf-course.svg",
+		"phone": "(02) 9534 5024",
+		"website": "www.hurstvillegolf.com.au",
+		"address": "Lorraine St, Peakhurst NSW 2210",
+		"name": "Hurstville Golf Course"
+	},
+	"lane-cove-aquatic-leisure-centre": {
+		"brand": "lane-cove-aquatic-leisure-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/181261/Lane%2520Cove%2520Aquatic%2520Leisure%2520Centre_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175108/Lane%2520Cove%2520Aquatic%2520Leisure%2520Centre_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174548/lane-cove-aquatic-leisure-centre.svg",
+		"phone": "(02) 9418 8888",
+		"website": "www.lanecoveaquatic.com.au",
+		"address": "2 Little St, Lane Cove NSW 2066",
+		"name": "Lane Cove Aquatic Leisure Centre"
+	},
+	"moss-vale-war-memorial-aquatic-centre": {
+		"brand": "",
+		"logoBlack": "https://files.outfit.io/media_library_items/181360/Moss%2520Vale%2520Aquatic%2520Centre_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175106/Moss%2520Vale%2520Aquatic%2520Centre_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173106/moss-vale-war-memorial-aquatic-centre.svg",
+		"phone": "(02) 4868 1967",
+		"website": "www.mossvaleaquatic.com.au",
+		"address": "8 Kirkham St, Moss Vale NSW 2577",
+		"name": "Moss Vale War Memorial Aquatic Centre"
+	},
+	"lambton-swimming-pool": {
+		"brand": "newcastle-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181249/Newcastle%2520Pools_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175110/Newcastle%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173107/newcastle-pools.svg",
+		"phone": "(02) 4952 5522",
+		"website": "newcastlepools.com.au",
+		"address": "102 Durham Rd, Lambton NSW 2299",
+		"name": "Lambton Swimming Pool"
+	},
+	"sawtell-swimming-pool": {
+		"brand": "coffs-harbour-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181100/BlueFit_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175104/Coffs%2520Harbour%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174552/coffs-harbour-pools.svg",
+		"phone": "(02) 6658 7497",
+		"website": "Coffsharbourpools.com.au",
+		"address": "Lyons Rd, Sawtell NSW 2452",
+		"name": "Sawtell Swimming Pool"
+	},
+	"stockton-swimming-pool": {
+		"brand": "newcastle-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181249/Newcastle%2520Pools_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175110/Newcastle%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173107/newcastle-pools.svg",
+		"phone": "(02) 4928 1589",
+		"website": "newcastlepools.com.au",
+		"address": "Pitt St, Stockton NSW 2295",
+		"name": "Stockton Swimming Pool"
+	},
+	"mayfield-swimming-pool": {
+		"brand": "port-macquarie-hastings-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181249/Newcastle%2520Pools_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175110/Newcastle%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173107/newcastle-pools.svg",
+		"phone": "(02) 9585 9600",
+		"website": "pmhpools.com.au",
+		"address": "Ingall St, Mayfield NSW 2304",
+		"name": "Mayfield Swimming Pool"
+	},
+	"wallsend-swimming-pool": {
+		"brand": "newcastle-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181249/Newcastle%2520Pools_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175110/Newcastle%2520Pools_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173107/newcastle-pools.svg",
+		"phone": "(02) 4955 8899",
+		"website": "newcastlepools.com.au",
+		"address": "2-6 Frances St, Wallsend NSW 2287",
+		"name": "Wallsend Swimming Pool"
+	},
+	"aquadome": {
+		"brand": "aquadome",
+		"logoBlack": "https://files.outfit.io/media_library_items/181482/Aquadome%2520black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175094/Aquadome%2520white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174550/aquadome.svg",
+		"phone": "(08) 8287 8800",
+		"website": "https://playfordaquadome.com.au/",
+		"address": "1 Crockerton Rd, Elizabeth SA 5112",
+		"name": "Aquadome"
+	},
+	"kendall-swimming-pool": {
+		"brand": "port-macquarie-hastings-pools",
+		"logoBlack": "https://files.outfit.io/media_library_items/181479/BAC039%2520Port%2520Macquarie_logo_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175095/BAC039%2520Port%2520Macquarie_logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174546/port-macquarie-hastings-pools.svg",
+		"phone": "(02) 6559 0151",
+		"website": "https://www.pmhpools.com.au/",
+		"address": "1 Orara St, Kendall NSW 2439",
+		"name": "Kendall Swimming Pool"
+	},
+	"wollondilly-leisure-centre": {
+		"brand": "wollondilly-leisure-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/181363/Wollondilly%2520Logo_black.svg",		
+		"logoWhite": "https://files.outfit.io/media_library_items/175105/Wollondilly%2520Logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174549/wollondilly-leisure-centre.svg",
+		"phone": "(02) 4677 1251",
+		"website": "www.wclc.com.au",
+		"address": "434 Argyle St, Picton NSW 2571",
+		"name": "Wollondilly Leisure Centre"
+	},
+	"laurieton-swimming-pool": {
+		"brand": "Laurieton Swimming Pool",
+		"logoBlack": "https://files.outfit.io/media_library_items/181479/BAC039%2520Port%2520Macquarie_logo_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175095/BAC039%2520Port%2520Macquarie_logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/174546/port-macquarie-hastings-pools.svg",
+		"phone": "(02) 6559 9072",
+		"website": "pmhpools.com.au",
+		"address": "1 Laurie St, Laurieton NSW 2443",
+		"name": "Laurieton Swimming Pool"
+	},
+	"mount-larcom-swimming-pool": {
+		"brand": "gladstone-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181475/Gladstone%2520Aquatic_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175100/Gladstone%2520Aquatic_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173100/gladstone-aquatic.svg",
+		"phone": "(07) 4975 1185",
+		"website": "Gladstoneaquatic.com.au",
+		"address": "The Narrows Road, Mount Larcom, 4695",
+		"name": "Mount Larcom Swimming Pool"
+	},
+	"mount-morgan-swimming-pool": {
+		"brand": "rockhampton-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181359/rockhampton-aquatic-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/181493/rockhampton-aquatic-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173103/rockhampton-aquatic.svg",
+		"phone": "(07) 4938 1500",
+		"website": "www.rockhamptonaquatic.com.au",
+		"address": "36 Thompson Avenue, Mount Morgan, 4714 QLD",
+		"name": "Mount Morgan Swimming Pool"
+	},
+	"2nd-world-war-memorial-swimming-pool-south-rocky-swimming-pool": {
+		"brand": "rockhampton-aquatic",
+		"logoBlack": "https://files.outfit.io/media_library_items/181359/rockhampton-aquatic-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/181493/rockhampton-aquatic-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173103/rockhampton-aquatic.svg",
+		"phone": "(07) 4922 1981",
+		"website": "www.rockhamptonaquatic.com.au",
+		"address": "2 Graeme Acton Way, Rockhampton City QLD 4700",
+		"name": "2nd World War Memorial Swimming Pool"
+	},
+	"lea": {
+		"brand": "leisure-employment-australia",
+		"logoBlack": "https://files.outfit.io/media_library_items/182249/lea-leisure-employment-australia-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/182243/lea-leisure-employment-australia-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173109/lea-leisure-employment-australia.svg",
+		"phone": "9049 1500",
+		"website": "https://leisureemployment.com.au/",
+		"address": "PO Box 363, Essendon VIC 3040",
+		"name": "LEA"
+	},
+	"southern-education": {
+		"brand": "southern-education",
+		"logoBlack": "https://files.outfit.io/media_library_items/182247/southern-education-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/182244/southern-education-white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173094/southern-education.svg",
+		"phone": "NA",
+		"website": "https://southerneducation.com.au/",
+		"address": "PO Box 363, Essendon VIC 3040",
+		"name": "Southern Education"
+	},
+	"stonnington-tennis-centres": {
+		"brand": "stonnington-tennis-centres",
+		"logoBlack": "https://files.outfit.io/media_library_items/181242/Stonnington%2520Tennis_logo_hz_black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/175654/Stonnington%2520Tennis_logo_hz_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173118/stonnington-tennis-centre.svg",
+		"phone": "(03) 8566 7784",
+		"website": "https://stonningtontennis.com.au/",
+		"address": "Corner Orrong Road and Sydney Street, Prahran",
+		"name": "Stonnington Tennis Centres"
+	},
+	"mosman-swim-centre": {
+		"brand": "mosman-swim-centre",
+		"logoBlack": "https://files.outfit.io/media_library_items/182248/mosman%2520logo-black.svg",
+		"logoWhite": "https://files.outfit.io/media_library_items/182246/mosman%2520logo_white.svg",
+		"logo": "https://files.outfit.io/media_library_items/173120/mosman-swim-centre.svg",
+		"phone": "(02) 9969 3888",
+		"website": "https://mosmanswimcentre.com.au/",
+		"address": "90 Vista St, Mosman NSW 2088",
+		"name": "Mosman Swim Centre"
+	}
+}
