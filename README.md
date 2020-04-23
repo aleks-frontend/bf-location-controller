@@ -23,7 +23,7 @@ We are using `data-location-property` attributes for each HTML element where we 
 Here is an example: https://screencast.com/t/uRvrgN0PQ4b
 
 ### Location Properties
-Available `data-location-properties` at this moment are:
+Available `data-location-property` values at this moment are:
 - brand
 - logoBlack
 - logoWhite
