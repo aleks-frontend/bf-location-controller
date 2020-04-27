@@ -32,3 +32,5 @@ Available `data-location-property` values at this moment are:
 - website
 - address
 - name
+
+These properties can be updated in the `{{account.snippets.brandToggleObject}}` at any time. 
